@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Giedo
 
-- 🔭 I’m currently working on a Pinterest Clone
+- 🔭 I’m currently working on a Pinterest Clone with @maxbenschop
 - 🌱 I’m currently learning Javascript and PHP
 - 📫 How to reach me: discord: **giedo#7525**
 - 😄 Pronouns: he/him
